@@ -57,3 +57,5 @@ Data from text files representing prices, trades, market data, and inquiries are
 ### 3.Shutdown Process
 Simulates end-of-day procedures, closing connections.
 
+
+The executable is `tradingsystem/build/bond`.
